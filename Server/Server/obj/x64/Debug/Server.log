@@ -1,0 +1,214 @@
+﻿生成启动时间为 2019/6/17 17:35:57。
+     1>项目“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\Server.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\obj\x64\Debug\Server.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       _ValidateSources:
+         Validating sources
+       _CopySources:
+         Copying sources remotely to '192.168.247.166'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\AesCrypto.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\BaseShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\Codec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\CodecFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\Hash.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\main.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\msg.pb.cc', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RequestCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RequestFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RespondCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RespondFactory.cpp', as it is up to date.
+         Copying file 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RsaCrypto.cpp' to '/root/projects/Server/RsaCrypto.cpp'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\SecKeyShm.cpp', as it is up to date.
+         Copying file 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\ServerOP.cpp' to '/root/projects/Server/ServerOP.cpp'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\TcpServer.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\TcpSocket.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\AesCrypto.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\BaseShm.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\Codec.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\CodecFactory.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\Hash.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\msg.pb.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RequestCodec.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RequestFactory.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RespondCodec.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RespondFactory.h', as it is up to date.
+         Copying file 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\RsaCrypto.h' to '/root/projects/Server/RsaCrypto.h'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\SecKeyShm.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\ServerOP.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\TcpServer.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\TcpSocket.h', as it is up to date.
+       _ValidateValidArchitecture:
+         Validating architecture
+         Current project architecture 'x64' is compatible with the remote system architecture 'x64' ('x64').
+       ClCompile:
+         Starting remote build
+         Compiling sources:
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/AesCrypto.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/AesCrypto.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         AesCrypto.cpp
+         /root/projects/Server/AesCrypto.cpp: 在构造函数‘AesCrypto::AesCrypto(std::string)’中:
+         /root/projects/Server/AesCrypto.cpp:9:42: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            AES_set_encrypt_key(aesKey, key.size() * 8, &m_encKey);
+                                                   ^
+         /root/projects/Server/AesCrypto.cpp:10:42: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            AES_set_decrypt_key(aesKey, key.size() * 8, &m_decKey);
+                                                   ^
+         /root/projects/Server/AesCrypto.cpp: 在成员函数‘std::string AesCrypto::aesCrypto(std::string, int)’中:
+         /root/projects/Server/AesCrypto.cpp:35:27: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int length = data.size() + 1; // +1 是添加\0的长度
+                                    ^
+         
+         Done compiling '/root/projects/Server/AesCrypto.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/BaseShm.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/BaseShm.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         BaseShm.cpp
+         Done compiling '/root/projects/Server/BaseShm.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/Codec.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/Codec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Codec.cpp
+         Done compiling '/root/projects/Server/Codec.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/CodecFactory.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/CodecFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         CodecFactory.cpp
+         Done compiling '/root/projects/Server/CodecFactory.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/Hash.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/Hash.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Hash.cpp
+         Done compiling '/root/projects/Server/Hash.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/main.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/main.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         main.cpp
+         Done compiling '/root/projects/Server/main.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/msg.pb.cc -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/msg.pb.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         msg.pb.cc
+         Done compiling '/root/projects/Server/msg.pb.cc'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/RequestCodec.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/RequestCodec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RequestCodec.cpp
+         Done compiling '/root/projects/Server/RequestCodec.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/RequestFactory.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/RequestFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RequestFactory.cpp
+         Done compiling '/root/projects/Server/RequestFactory.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/RespondCodec.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/RespondCodec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RespondCodec.cpp
+         Done compiling '/root/projects/Server/RespondCodec.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/RespondFactory.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/RespondFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RespondFactory.cpp
+         Done compiling '/root/projects/Server/RespondFactory.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/RsaCrypto.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/RsaCrypto.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RsaCrypto.cpp
+         Done compiling '/root/projects/Server/RsaCrypto.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/SecKeyShm.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/SecKeyShm.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         SecKeyShm.cpp
+         Done compiling '/root/projects/Server/SecKeyShm.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/ServerOP.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/ServerOP.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         ServerOP.cpp
+         Done compiling '/root/projects/Server/ServerOP.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/TcpServer.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/TcpServer.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         TcpServer.cpp
+         Done compiling '/root/projects/Server/TcpServer.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Server/TcpSocket.cpp -g2 -gdwarf-2 -o "/root/projects/Server/obj/x64/Debug/TcpSocket.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         TcpSocket.cpp
+         Done compiling '/root/projects/Server/TcpSocket.cpp'
+         In file included from /root/projects/Server/main.cpp:2:0:
+         /root/projects/Server/ServerOP.h: 在静态成员函数‘static void* ServerOP::hardWork(void*)’中:
+         /root/projects/Server/ServerOP.h:39:36: 警告：在有返回值的函数中未发现 return 语句 [-Wreturn-type]
+           static void* hardWork(void* arg) {}
+                                             ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘void RsaCrypto::parseKeyString(std::string, bool)’中:
+         /root/projects/Server/RsaCrypto.cpp:39:56: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           BIO* bio = BIO_new_mem_buf(keystr.data(), keystr.size());
+                                                                 ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘void RsaCrypto::generateRsakey(int, std::string, std::string)’中:
+         /root/projects/Server/RsaCrypto.cpp:68:18: 警告：计算出的值未被使用 [-Wunused-value]
+           BIO_flush(pubIO);
+                           ^
+         /root/projects/Server/RsaCrypto.cpp:75:19: 警告：计算出的值未被使用 [-Wunused-value]
+           BIO_flush(priBio);
+                            ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘std::string RsaCrypto::rsaPubKeyEncrypt(std::string)’中:
+         /root/projects/Server/RsaCrypto.cpp:125:41: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int ret = RSA_public_encrypt(data.size(), (const unsigned char*)data.data(),
+                                                  ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘std::string RsaCrypto::rsaSign(std::string, SignLevel)’中:
+         /root/projects/Server/RsaCrypto.cpp:175:73: 警告：‘unsigned int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int ret = RSA_sign(level, (const unsigned char*)data.data(), data.size(), (unsigned char*)signBuf,
+                                                                                  ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘bool RsaCrypto::rsaVerify(std::string, std::string, SignLevel)’中:
+         /root/projects/Server/RsaCrypto.cpp:192:75: 警告：‘unsigned int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int ret = RSA_verify(level, (const unsigned char*)data.data(), data.size(),
+                                                                                    ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘std::string RsaCrypto::toBase64(const char*, int)’中:
+         /root/projects/Server/RsaCrypto.cpp:213:17: 警告：计算出的值未被使用 [-Wunused-value]
+           BIO_flush(bs64);
+                          ^
+         /root/projects/Server/RsaCrypto.cpp: 在成员函数‘char* RsaCrypto::fromBase64(std::string)’中:
+         /root/projects/Server/RsaCrypto.cpp:224:24: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int length = str.size();
+                                 ^
+         /root/projects/Server/SecKeyShm.cpp: 在构造函数‘SecKeyShm::SecKeyShm(int, int)’中:
+         /root/projects/Server/SecKeyShm.cpp:7:25: 警告：‘int’转换自‘long unsigned int’时可能改变值 [-Wconversion]
+           : BaseShm(key, maxNode * sizeof(NodeSHMInfo))
+                                  ^
+         /root/projects/Server/SecKeyShm.cpp: 在构造函数‘SecKeyShm::SecKeyShm(std::string, int)’中:
+         /root/projects/Server/SecKeyShm.cpp:13:30: 警告：‘int’转换自‘long unsigned int’时可能改变值 [-Wconversion]
+           : BaseShm(pathName, maxNode * sizeof(NodeSHMInfo))
+                                       ^
+         /root/projects/Server/SecKeyShm.cpp: 在成员函数‘NodeSHMInfo SecKeyShm::shmRead(std::string, std::string)’中:
+         /root/projects/Server/SecKeyShm.cpp:86:6: 警告：未使用的变量‘ret’ [-Wunused-variable]
+           int ret = 0;
+               ^
+         In file included from /root/projects/Server/ServerOP.cpp:1:0:
+         /root/projects/Server/ServerOP.h: 在静态成员函数‘static void* ServerOP::hardWork(void*)’中:
+         /root/projects/Server/ServerOP.h:39:36: 警告：在有返回值的函数中未发现 return 语句 [-Wreturn-type]
+           static void* hardWork(void* arg) {}
+                                             ^
+         /root/projects/Server/ServerOP.cpp: 在构造函数‘ServerOP::ServerOP(std::string)’中:
+         /root/projects/Server/ServerOP.cpp:26:35: 警告：‘short unsigned int’转换自‘Json::Value::Int {aka int}’时可能改变值 [-Wconversion]
+           m_info.port = root["port"].asInt();
+                                            ^
+         /root/projects/Server/ServerOP.cpp: 在成员函数‘std::string ServerOP::getRandStr(KeyLen)’中:
+         /root/projects/Server/ServerOP.cpp:121:17: 警告：‘unsigned int’转换自‘time_t {aka long int}’时可能改变值 [-Wconversion]
+           srand(time(NULL)); // 以当前时间为种子
+                          ^
+         /root/projects/Server/ServerOP.cpp:123:14: 警告：不建议使用从字符串常量到‘char*’的转换 [-Wwrite-strings]
+           char* buf = "~`@#$%^&*()_+=-{}[];':";
+                       ^
+         /root/projects/Server/TcpSocket.cpp: 在成员函数‘int TcpSocket::sendMsg(std::string, int)’中:
+         /root/projects/Server/TcpSocket.cpp:75:33: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            int dataLen = sendData.size() + 4;
+                                          ^
+         /root/projects/Server/TcpSocket.cpp:85:36: 警告：‘uint32_t {aka unsigned int}’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            int netlen = htonl(sendData.size());
+                                             ^
+         /root/projects/Server/TcpSocket.cpp: 在成员函数‘int TcpSocket::readn(void*, int)’中:
+         /root/projects/Server/TcpSocket.cpp:407:17: 警告：‘int’转换自‘size_t {aka long unsigned int}’时可能改变值 [-Wconversion]
+             return count - nleft;
+                          ^
+         
+       Link:
+         Linking objects
+         Invoking 'ld'
+         g++ -o "/root/projects/Server/bin/x64/Debug/Server.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/Server/obj/x64/Debug/AesCrypto.o /root/projects/Server/obj/x64/Debug/BaseShm.o /root/projects/Server/obj/x64/Debug/Codec.o /root/projects/Server/obj/x64/Debug/CodecFactory.o /root/projects/Server/obj/x64/Debug/Hash.o /root/projects/Server/obj/x64/Debug/main.o /root/projects/Server/obj/x64/Debug/msg.pb.o /root/projects/Server/obj/x64/Debug/RequestCodec.o /root/projects/Server/obj/x64/Debug/RequestFactory.o /root/projects/Server/obj/x64/Debug/RespondCodec.o /root/projects/Server/obj/x64/Debug/RespondFactory.o /root/projects/Server/obj/x64/Debug/RsaCrypto.o /root/projects/Server/obj/x64/Debug/SecKeyShm.o /root/projects/Server/obj/x64/Debug/ServerOP.o /root/projects/Server/obj/x64/Debug/TcpServer.o /root/projects/Server/obj/x64/Debug/TcpSocket.o -lpthread -lprotobuf -lcrypto -ljson
+         Done linking, output file name: '/root/projects/Server/bin/x64/Debug/Server.out'
+         Copying file '/root/projects/Server/bin/x64/Debug/Server.out' to 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\bin\x64\Debug\Server.out'
+         Server.vcxproj -> D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\bin\x64\Debug\Server.out
+       FinalizeBuildStatus:
+         正在删除文件“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\obj\x64\Debug\Server.tlog\unsuccessfulbuild”。
+         正在对“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\obj\x64\Debug\Server.tlog\Server.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Server\Server\Server.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:51.62

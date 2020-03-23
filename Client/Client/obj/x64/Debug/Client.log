@@ -1,0 +1,191 @@
+﻿生成启动时间为 2019/6/17 17:36:03。
+     1>项目“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\Client.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\obj\x64\Debug\Client.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       _ValidateSources:
+         Validating sources
+       _CopySources:
+         Copying sources remotely to '192.168.247.166'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\AesCrypto.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\BaseShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\ClientOP.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\Codec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\CodecFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\Hash.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\main.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\msg.pb.cc', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RequestCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RequestFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RespondCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RespondFactory.cpp', as it is up to date.
+         Copying file 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RsaCrypto.cpp' to '/root/projects/Client/RsaCrypto.cpp'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\SecKeyShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\TcpSocket.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\AesCrypto.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\BaseShm.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\ClientOP.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\Codec.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\CodecFactory.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\Hash.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\msg.pb.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RequestCodec.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RequestFactory.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RespondCodec.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RespondFactory.h', as it is up to date.
+         Copying file 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\RsaCrypto.h' to '/root/projects/Client/RsaCrypto.h'
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\SecKeyShm.h', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\TcpSocket.h', as it is up to date.
+       _ValidateValidArchitecture:
+         Validating architecture
+         Current project architecture 'x64' is compatible with the remote system architecture 'x64' ('x64').
+       ClCompile:
+         Starting remote build
+         Compiling sources:
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/AesCrypto.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/AesCrypto.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         AesCrypto.cpp
+         Done compiling '/root/projects/Client/AesCrypto.cpp'
+         Invoking 'g++'
+         /root/projects/Client/AesCrypto.cpp: 在构造函数‘AesCrypto::AesCrypto(std::string)’中:
+         /root/projects/Client/AesCrypto.cpp:9:42: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            AES_set_encrypt_key(aesKey, key.size() * 8, &m_encKey);
+                                                   ^
+         /root/projects/Client/AesCrypto.cpp:10:42: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            AES_set_decrypt_key(aesKey, key.size() * 8, &m_decKey);
+                                                   ^
+         /root/projects/Client/AesCrypto.cpp: 在成员函数‘std::string AesCrypto::aesCrypto(std::string, int)’中:
+         /root/projects/Client/AesCrypto.cpp:35:27: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int length = data.size() + 1; // +1 是添加\0的长度
+                                    ^
+         
+         g++ -c -x c++ /root/projects/Client/BaseShm.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/BaseShm.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         BaseShm.cpp
+         Done compiling '/root/projects/Client/BaseShm.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/ClientOP.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/ClientOP.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         ClientOP.cpp
+         Done compiling '/root/projects/Client/ClientOP.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/Codec.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/Codec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Codec.cpp
+         Done compiling '/root/projects/Client/Codec.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/CodecFactory.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/CodecFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         CodecFactory.cpp
+         Done compiling '/root/projects/Client/CodecFactory.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/Hash.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/Hash.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         Hash.cpp
+         Done compiling '/root/projects/Client/Hash.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/main.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/main.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         main.cpp
+         Done compiling '/root/projects/Client/main.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/msg.pb.cc -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/msg.pb.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         msg.pb.cc
+         Done compiling '/root/projects/Client/msg.pb.cc'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/RequestCodec.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/RequestCodec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RequestCodec.cpp
+         Done compiling '/root/projects/Client/RequestCodec.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/RequestFactory.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/RequestFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RequestFactory.cpp
+         Done compiling '/root/projects/Client/RequestFactory.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/RespondCodec.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/RespondCodec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RespondCodec.cpp
+         Done compiling '/root/projects/Client/RespondCodec.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/RespondFactory.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/RespondFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RespondFactory.cpp
+         Done compiling '/root/projects/Client/RespondFactory.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/RsaCrypto.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/RsaCrypto.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         RsaCrypto.cpp
+         Done compiling '/root/projects/Client/RsaCrypto.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/SecKeyShm.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/SecKeyShm.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         SecKeyShm.cpp
+         Done compiling '/root/projects/Client/SecKeyShm.cpp'
+         Invoking 'g++'
+         g++ -c -x c++ /root/projects/Client/TcpSocket.cpp -g2 -gdwarf-2 -o "/root/projects/Client/obj/x64/Debug/TcpSocket.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         TcpSocket.cpp
+         Done compiling '/root/projects/Client/TcpSocket.cpp'
+         /root/projects/Client/ClientOP.cpp: 在构造函数‘ClientOP::ClientOP(std::string)’中:
+         /root/projects/Client/ClientOP.cpp:27:41: 警告：‘short unsigned int’转换自‘Json::Value::Int {aka int}’时可能改变值 [-Wconversion]
+           m_info.port = root["serverPort"].asInt();
+                                                  ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘void RsaCrypto::parseKeyString(std::string, bool)’中:
+         /root/projects/Client/RsaCrypto.cpp:39:56: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           BIO* bio = BIO_new_mem_buf(keystr.data(), keystr.size());
+                                                                 ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘void RsaCrypto::generateRsakey(int, std::string, std::string)’中:
+         /root/projects/Client/RsaCrypto.cpp:68:18: 警告：计算出的值未被使用 [-Wunused-value]
+           BIO_flush(pubIO);
+                           ^
+         /root/projects/Client/RsaCrypto.cpp:75:19: 警告：计算出的值未被使用 [-Wunused-value]
+           BIO_flush(priBio);
+                            ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘std::string RsaCrypto::rsaPubKeyEncrypt(std::string)’中:
+         /root/projects/Client/RsaCrypto.cpp:125:41: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int ret = RSA_public_encrypt(data.size(), (const unsigned char*)data.data(),
+                                                  ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘std::string RsaCrypto::rsaSign(std::string, SignLevel)’中:
+         /root/projects/Client/RsaCrypto.cpp:175:73: 警告：‘unsigned int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int ret = RSA_sign(level, (const unsigned char*)data.data(), data.size(), (unsigned char*)signBuf,
+                                                                                  ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘bool RsaCrypto::rsaVerify(std::string, std::string, SignLevel)’中:
+         /root/projects/Client/RsaCrypto.cpp:192:75: 警告：‘unsigned int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int ret = RSA_verify(level, (const unsigned char*)data.data(), data.size(),
+                                                                                    ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘std::string RsaCrypto::toBase64(const char*, int)’中:
+         /root/projects/Client/RsaCrypto.cpp:213:17: 警告：计算出的值未被使用 [-Wunused-value]
+           BIO_flush(bs64);
+                          ^
+         /root/projects/Client/RsaCrypto.cpp: 在成员函数‘char* RsaCrypto::fromBase64(std::string)’中:
+         /root/projects/Client/RsaCrypto.cpp:224:24: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+           int length = str.size();
+                                 ^
+         /root/projects/Client/SecKeyShm.cpp: 在构造函数‘SecKeyShm::SecKeyShm(int, int)’中:
+         /root/projects/Client/SecKeyShm.cpp:7:25: 警告：‘int’转换自‘long unsigned int’时可能改变值 [-Wconversion]
+           : BaseShm(key, maxNode * sizeof(NodeSHMInfo))
+                                  ^
+         /root/projects/Client/SecKeyShm.cpp: 在构造函数‘SecKeyShm::SecKeyShm(std::string, int)’中:
+         /root/projects/Client/SecKeyShm.cpp:13:30: 警告：‘int’转换自‘long unsigned int’时可能改变值 [-Wconversion]
+           : BaseShm(pathName, maxNode * sizeof(NodeSHMInfo))
+                                       ^
+         /root/projects/Client/SecKeyShm.cpp: 在成员函数‘NodeSHMInfo SecKeyShm::shmRead(std::string, std::string)’中:
+         /root/projects/Client/SecKeyShm.cpp:86:6: 警告：未使用的变量‘ret’ [-Wunused-variable]
+           int ret = 0;
+               ^
+         /root/projects/Client/TcpSocket.cpp: 在成员函数‘int TcpSocket::sendMsg(std::string, int)’中:
+         /root/projects/Client/TcpSocket.cpp:75:33: 警告：‘int’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            int dataLen = sendData.size() + 4;
+                                          ^
+         /root/projects/Client/TcpSocket.cpp:85:36: 警告：‘uint32_t {aka unsigned int}’转换自‘std::basic_string<char>::size_type {aka long unsigned int}’时可能改变值 [-Wconversion]
+            int netlen = htonl(sendData.size());
+                                             ^
+         /root/projects/Client/TcpSocket.cpp: 在成员函数‘int TcpSocket::readn(void*, int)’中:
+         /root/projects/Client/TcpSocket.cpp:407:17: 警告：‘int’转换自‘size_t {aka long unsigned int}’时可能改变值 [-Wconversion]
+             return count - nleft;
+                          ^
+         
+       Link:
+         Linking objects
+         Invoking 'ld'
+         g++ -o "/root/projects/Client/bin/x64/Debug/Client.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/Client/obj/x64/Debug/AesCrypto.o /root/projects/Client/obj/x64/Debug/BaseShm.o /root/projects/Client/obj/x64/Debug/ClientOP.o /root/projects/Client/obj/x64/Debug/Codec.o /root/projects/Client/obj/x64/Debug/CodecFactory.o /root/projects/Client/obj/x64/Debug/Hash.o /root/projects/Client/obj/x64/Debug/main.o /root/projects/Client/obj/x64/Debug/msg.pb.o /root/projects/Client/obj/x64/Debug/RequestCodec.o /root/projects/Client/obj/x64/Debug/RequestFactory.o /root/projects/Client/obj/x64/Debug/RespondCodec.o /root/projects/Client/obj/x64/Debug/RespondFactory.o /root/projects/Client/obj/x64/Debug/RsaCrypto.o /root/projects/Client/obj/x64/Debug/SecKeyShm.o /root/projects/Client/obj/x64/Debug/TcpSocket.o -lpthread -lprotobuf -lcrypto -ljson
+         Done linking, output file name: '/root/projects/Client/bin/x64/Debug/Client.out'
+         Copying file '/root/projects/Client/bin/x64/Debug/Client.out' to 'D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\bin\x64\Debug\Client.out'
+         Client.vcxproj -> D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\bin\x64\Debug\Client.out
+       FinalizeBuildStatus:
+         正在删除文件“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\obj\x64\Debug\Client.tlog\unsuccessfulbuild”。
+         正在对“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\obj\x64\Debug\Client.tlog\Client.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Videos\35期-项目1\day09 - 秘钥协商-base64\04-代码\Client\Client\Client.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:47.51
